@@ -20,3 +20,14 @@ The following content is covered in this course:
      Generating files for manufacturing (Gerber) and assembly (assembly information, footprint positions, and bill of materials). Ordering process using generated files and cost estimation.  
   - Outro
     Final notes and tips, how to get certificate, and contact to instructor.
+
+![2](https://github.com/user-attachments/assets/0507e928-2a75-436c-b390-ed8b2bc996d5)
+![1](https://github.com/user-attachments/assets/ff8749eb-5ee7-431c-9bc4-e1317290cd1c)
+![front_view](https://github.com/user-attachments/assets/ece3cdf4-3040-4526-9f4b-48ea8fa659c0)
+![back_view](https://github.com/user-attachments/assets/7610cd0e-bf33-4bb7-aa4e-6d9120bf623c)
+
+
+
+
+
+

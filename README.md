@@ -25,6 +25,8 @@ The following content is covered in this course:
 ![1](https://github.com/user-attachments/assets/ff8749eb-5ee7-431c-9bc4-e1317290cd1c)
 ![front_view](https://github.com/user-attachments/assets/ece3cdf4-3040-4526-9f4b-48ea8fa659c0)
 ![back_view](https://github.com/user-attachments/assets/7610cd0e-bf33-4bb7-aa4e-6d9120bf623c)
+![137c254d37407c3527883e300 conv 1](https://github.com/user-attachments/assets/e26cc25a-0188-4b00-9e1b-6cc8ea8e359a)
+
 
 
 
